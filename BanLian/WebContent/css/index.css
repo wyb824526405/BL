@@ -1,11 +1,12 @@
 .mark{
-	margin-left: 400px;
+	width:700px;
+	margin:auto;
 }
 .introduce{/****/
 	/**border: 1px solid red;**/
 	width: 700px;
 	height: 60px;
-	margin-left: 400px;
+	margin:auto;
 }
 font{
 	letter-spacing: 3px;
