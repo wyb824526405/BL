@@ -11,11 +11,11 @@
 
 	<body id="bodycss">
 		<div class="mark">
-			<h1>扮脸yy325022</h1>
+			<h1>扮脸</h1>
 		</div>
 		
 		<div class="introduce">
-			<font>华北战区扮脸收小伙伴！欢迎加入我们。<br/> <font style="color: red;">入队三标：</font>队徽、名片、改名<br/><font style="color: red;">马甲格式：</font>XXXX/.BL</font>
+			<font>华北战区扮脸收小伙伴！欢迎加入我们。战队yy325022<br/> <font style="color: red;">入队三标：</font>队徽、名片、改名<br/><font style="color: red;">马甲格式：</font>XXXX/.BL</font>
 		</div>
 		
 		<div class="context">
