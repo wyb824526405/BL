@@ -7,6 +7,7 @@
 		<title>扮脸325022</title>
 		<link rel="stylesheet" type="text/css" href="css/index.css" />
 		<script type="text/javascript" src="js/index.js"></script>
+		<link rel="shortcut icon" href="img/lian.ico" type="image/x-icon" />		
 	</head>
 
 	<body id="bodycss">
